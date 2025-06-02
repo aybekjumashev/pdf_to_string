@@ -1,0 +1,28 @@
+# PDF to String Module Requirements
+
+# Core PDF processing
+PyMuPDF>=1.23.0
+fitz>=0.0.1.dev2
+
+# OCR capabilities
+pytesseract>=0.3.10
+Pillow>=10.0.0
+
+# Image processing for OCR
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Data processing
+pandas>=2.0.0
+
+# Logging (built-in, but explicit version)
+# logging - built-in module
+
+# Optional: For better table detection
+# camelot-py[cv]>=0.10.1  # Uncomment if you want advanced table detection
+# tabula-py>=2.8.0        # Alternative table extraction
+
+# Development dependencies (optional)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0

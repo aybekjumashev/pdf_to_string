@@ -1,0 +1,59 @@
+PDF CONVERSION RESULT
+==================================================
+
+OCR QUALITY SCORE: 0.0/100
+
+RECOMMENDATIONS:
+- OCR quality is very poor. Consider:
+- - Scanning at higher resolution (600+ DPI)
+- - Ensuring document is flat and well-lit
+- - Using different OCR software (ABBYY FineReader, Adobe Acrobat)
+- - Manual retyping may be more efficient
+
+METADATA:
+format: PDF 1.4
+title: 
+author: 
+subject: 
+keywords: 
+creator: Canon SC1012
+producer: Adobe PSL 1.3e for Canon
+creationDate: D:20241104114954+05'00'
+modDate: D:20241104115135+05'00'
+trapped: 
+encryption: None
+
+EXTRACTED TEXT:
+------------------------------
+БJА
+эdФ_+
+эоi, Езч
+о9-ýг
+jEo
+] ý! чý:0i
+ýi gы, igч
+5J+., знй
+Dq, trт.
+20а: оа
+йЕЁ
+чоN
+€ý? bдg
+lчя
+ьUэ! зс, Эы9. DJN
+qрэ
+ýU, tE'
+
+li,, rз
+il],: qPc
+lc9z
+_. оя. rl
+эфr
+iчэ
+i3. EfФа
+7i зlý:. aj: gq!. Рifй'
+ff гOл_?: 5й
+ff: iзт, кq
+5cj, чо
+а33:. tr; да. ЁфЕ:,: Ьо.: tы
+Ез. О_о
+
